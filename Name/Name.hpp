@@ -6,7 +6,7 @@ date: jlu/27/2020
 #include<string>
 
 #ifndef NAME_H
-#define NMAE_H
+#define NAME_H
 
 class Name
 {
